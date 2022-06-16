@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-06-16)
+### Feature
+* Reset python files ([`f0f78b9`](https://github.com/javad123javad/twamp-protocol/commit/f0f78b933589e356e4fcbd50d1d4d017a3156eac))
+
+### Fix
+* Fix merge con ([`c3c2960`](https://github.com/javad123javad/twamp-protocol/commit/c3c2960abf3dbd657c404c4216907bd5dd014d19))
+
 ## v0.2.0 (2022-06-16)
 
 
