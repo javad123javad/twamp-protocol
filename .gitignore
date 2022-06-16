@@ -6,3 +6,13 @@ server
 tags
 /Debug/
 /Release/
+build/
+install/
+log/
+.vscode/
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/keybindings.json
