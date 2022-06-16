@@ -6,3 +6,7 @@ server
 tags
 /Debug/
 /Release/
+.vscode/
+build/
+install/
+log/
