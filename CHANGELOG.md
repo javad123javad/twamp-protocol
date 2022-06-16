@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2022-06-16)
+
+
 ## v0.1.0 (2022-06-16)
 ### Fix
 * Add setup.cfg and updating ignore file ([`b4a7e15`](https://github.com/javad123javad/twamp-protocol/commit/b4a7e15ec6252fc8f52f73cf2a96cc2f2de8ecf9))
